@@ -70,7 +70,7 @@
 * Deploy the second version of project
 * If everything is correct, Will do documentation for the Project and Plan for Release.
 
-> Closing
+> Deployment
 * Deploy the final version of project
 
 

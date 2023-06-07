@@ -12,7 +12,7 @@
 
 <img src="Images/MahithaAvula.jpeg" alt="drawing" width="150" height ="200" style="border-radius:50%" />    &nbsp;&nbsp;&nbsp;
 <img src="Images/SriVyshnaviKshatriya.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;
-<img src="Images/TejoLakshmiTata.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp; 
+<img src="Images/TejoLakshmiT.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp; 
 <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;   
 <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;   
 <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;

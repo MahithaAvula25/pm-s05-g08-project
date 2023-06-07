@@ -32,7 +32,7 @@
 | Person4               | Backend Developer |
 | Person5               | Devops Engineer  | 
 | Person6               | Business Analyst     |  
-| Person7               | Tester |
+| Bhavana Malli               | Tester |
 
 ## Key Contributions
 <li>Mahitha Avula will be as a project manager in the team </li>
@@ -41,7 +41,7 @@
 <li>person4 contribution</li>
 <li>person5 contribution</li>
 <li>person6 contribution</li>
-<li>person7 contribution</li>
+<li>Bhavana Malli wiil be act as a tester in the team</li>
 
 ## Content Summary
 

@@ -36,7 +36,7 @@
 
 ## Key Contributions
 <li>Mahitha Avula will be as a project manager in the team </li>
-<li>person2 contribution</li>
+<li>Sri Vyshnavi will be the scrum master and will be managing the team</li>
 <li>person3 contribution</li>
 <li>person4 contribution</li>
 <li>person5 contribution</li>

@@ -31,7 +31,7 @@
 | Tejo Lakshmi Tata     | UI Developer     |  
 | Person4               | Backend Developer |
 | Person5               | Devops Engineer  | 
-| Person6               | Business Analyst     |  
+| Narayana Potla               | Business Analyst     |  
 | Bhavana Malli               | Tester |
 
 ## Key Contributions
@@ -40,7 +40,7 @@
 <li>Tejo Lakshmi Tata will be UI Developer in the team</li>
 <li>person4 contribution</li>
 <li>person5 contribution</li>
-<li>person6 contribution</li>
+<li>Narayana potla will be as a business analyst</li>
 <li>Bhavana Malli wiil be act as a tester in the team</li>
 
 ## Content Summary

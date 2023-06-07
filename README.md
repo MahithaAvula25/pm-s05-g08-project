@@ -16,11 +16,11 @@
 <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;   
 <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;   
 <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;
-<img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;   
+<img src="Images/Bhavana.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />   &nbsp;&nbsp;&nbsp;   
 
 
 [Mahitha Avula](https://github.com/MahithaAvula25)   &nbsp;&nbsp;&nbsp; [SriVyshnaviKshatriya](https://github.com/SriVyshnaviKshatriya)   &nbsp;&nbsp;&nbsp;[PERSON3](https://github.com/ADD-YOUR-GITHUB)  &nbsp;&nbsp;&nbsp;   [PERSON4](https://github.com/ADD-YOUR-GITHUB)  &nbsp;&nbsp;&nbsp;
-[PERSON5](https://github.com/ADD-YOUR-GITHUB)  &nbsp;&nbsp;&nbsp;  [PERSON6](https://github.com/ADD-YOUR-GITHUB)  &nbsp;&nbsp; &nbsp;  [PERSON7](https://github.com/ADD-YOUR-GITHUB)
+[PERSON5](https://github.com/ADD-YOUR-GITHUB)  &nbsp;&nbsp;&nbsp;  [PERSON6](https://github.com/ADD-YOUR-GITHUB)  &nbsp;&nbsp; &nbsp;  [Bhavana-Malli](https://github.com/Bhavana-Malli)
  
  
 ## Participants

@@ -28,7 +28,7 @@
 | -------------         |:-------------:|
 | Mahitha Avula         | Project Mangaer | 
 | Sri Vyshnavi Kshatriya| Scrum Master   | 
-| Person3               | UI Developer     |  
+| Tejo Lakshmi Tata     | UI Developer     |  
 | Person4               | Backend Developer |
 | Person5               | Devops Engineer  | 
 | Person6               | Business Analyst     |  
@@ -37,7 +37,7 @@
 ## Key Contributions
 <li>Mahitha Avula will be as a project manager in the team </li>
 <li>Sri Vyshnavi will be the scrum master and will be managing the team</li>
-<li>person3 contribution</li>
+<li>Tejo Lakshmi Tata will be UI Developer in the team</li>
 <li>person4 contribution</li>
 <li>person5 contribution</li>
 <li>person6 contribution</li>

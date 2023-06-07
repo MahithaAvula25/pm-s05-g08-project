@@ -11,7 +11,7 @@
 ## Our Team
 
 <img class='img-circle' src="Images/MahithaAvula.jpeg" alt="drawing" width="150" style="border-radius:50%" />  <img class='img-circle' src="Images/SriVyshnaviKshatriya.jpg" alt="drawing" width="150" style="border-radius:50%" /> &nbsp; 
-<img class='img-circle' src="Images/TejoLakshmiT.jpg" alt="drawing" width="150" style="border-radius:50%" />  &nbsp;  <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" style="border-radius:50%"/>   <img class='img-circle' src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" style="border-radius:50%" />               <img class='img-circle' src="Images/narayanapotla.jpeg" alt="drawing" width="150" style="border-radius:50%" />
+<img class='img-circle' src="Images/TejoLakshmiT.jpg" alt="drawing" width="150" style="border-radius:50%" />  &nbsp;  <img src="Images/Mekala Dheeraj Krishna.png" alt="drawing" width="150" style="border-radius:50%"/>   <img class='img-circle' src="Images/kovidh.jpeg" alt="drawing" width="150" style="border-radius:50%" />               <img class='img-circle' src="Images/narayanapotla.jpeg" alt="drawing" width="150" style="border-radius:50%" />
                  <img class='img-circle' src="Images/Bhavana.jpg" alt="drawing" width="150" style="border-radius:50%">               
 
 

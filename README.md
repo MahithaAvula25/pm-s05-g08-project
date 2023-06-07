@@ -11,13 +11,13 @@
 ## Our Team
 
 <img class='img-circle' src="Images/MahithaAvula.jpeg" alt="drawing" width="150" style="border-radius:50%" />  <img class='img-circle' src="Images/SriVyshnaviKshatriya.jpg" alt="drawing" width="150" style="border-radius:50%" /> &nbsp; 
-<img class='img-circle' src="Images/TejoLakshmiT.jpg" alt="drawing" width="150" style="border-radius:50%" />  &nbsp;  <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" style="border-radius:50%"/>   <img class='img-circle' src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" style="border-radius:50%" />               <img class='img-circle' src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" style="border-radius:50%" />
+<img class='img-circle' src="Images/TejoLakshmiT.jpg" alt="drawing" width="150" style="border-radius:50%" />  &nbsp;  <img src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" style="border-radius:50%"/>   <img class='img-circle' src="Images/ADD_IMGAE_IN_FOLDER" alt="drawing" width="150" style="border-radius:50%" />               <img class='img-circle' src="Images/narayana(2).jpeg" alt="drawing" width="150" style="border-radius:50%" />
                  <img class='img-circle' src="Images/Bhavana.jpg" alt="drawing" width="150" style="border-radius:50%">               
 
 
 
 
-  [Mahitha Avula](https://github.com/MahithaAvula25) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SriVyshnaviKshatriya](https://github.com/SriVyshnaviKshatriya)             &nbsp;&nbsp;&nbsp;&nbsp;   [Tejo Lakshmi Tata](https://github.com/TejoTata)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [PERSON4](https://github.com/ADD-YOUR-GITHUB) &nbsp;&nbsp;  [PERSON5](https://github.com/ADD-YOUR-GITHUB) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PERSON6](https://github.com/ADD-YOUR-GITHUB)             &nbsp;&nbsp;&nbsp;&nbsp;   [Bhavana-Malli](https://github.com/Bhavana-Malli)   
+  [Mahitha Avula](https://github.com/MahithaAvula25) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SriVyshnaviKshatriya](https://github.com/SriVyshnaviKshatriya)             &nbsp;&nbsp;&nbsp;&nbsp;   [Tejo Lakshmi Tata](https://github.com/TejoTata)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [PERSON4](https://github.com/ADD-YOUR-GITHUB) &nbsp;&nbsp;  [PERSON5](https://github.com/ADD-YOUR-GITHUB) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Narayana Potla](https://github.com/narayanapotla1)             &nbsp;&nbsp;&nbsp;&nbsp;   [Bhavana-Malli](https://github.com/Bhavana-Malli)   
 
 
 

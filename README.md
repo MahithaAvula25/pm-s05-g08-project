@@ -38,8 +38,8 @@
 <li>Mahitha Avula will be as a project manager in the team </li>
 <li>Sri Vyshnavi will be the scrum master and will be managing the team</li>
 <li>Tejo Lakshmi Tata will be UI Developer in the team</li>
-<li>person4 contribution</li>
-<li>person5 contribution</li>
+<li>Dheeraj krishna mekala will be backend deveoper in the team</li>
+<li>Kovidh kurra will be Devops Engineer for the project</li>
 <li>Narayana potla will be as a business analyst</li>
 <li>Bhavana Malli wiil be act as a tester in the team</li>
 

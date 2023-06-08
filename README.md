@@ -24,15 +24,15 @@
 
  
 ## Participants
-|     Team Member       | Role          | 
-| -------------         |:-------------:|
-| Mahitha Avula         | Project Mangaer | 
-| Sri Vyshnavi Kshatriya| Scrum Master   | 
-| Tejo Lakshmi Tata     | UI Developer     |  
-| Person4               | Backend Developer |
-| Person5               | Devops Engineer  | 
-| Narayana Potla               | Business Analyst     |  
-| Bhavana Malli               | Tester |
+|     Team Member          | Role              | 
+ -------------             | :-------------:   |
+| Mahitha Avula            | Project Mangaer   | 
+| Sri Vyshnavi Kshatriya   | Scrum Master      | 
+| Tejo Lakshmi Tata        | UI Developer      |  
+| Dheeraj Krishna Mekala   | Backend Developer |
+| Kovidh Kurra             | Devops Engineer   | 
+| Narayana Potla           | Business Analyst  |  
+| Bhavana Malli            | Tester            |
 
 ## Key Contributions
 <li>Mahitha Avula will be as a project manager in the team </li>

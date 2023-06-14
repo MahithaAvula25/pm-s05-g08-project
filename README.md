@@ -32,7 +32,7 @@
 | Dheeraj Krishna Mekala   | Backend Developer |
 | Kovidh Kurra             | Devops Engineer   | 
 | Narayana Potla           | Business Analyst  |  
-| Bhavana Malli            | Tester            |
+| Bhavana Malli            | Database Administrator            |
 
 ## Key Contributions
 <li>Mahitha Avula will be as a project manager in the team </li>
